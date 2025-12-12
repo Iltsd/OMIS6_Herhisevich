@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2e6074d6-4550-412e-b270-844464056658",
+    "username": "Bob",
+    "password": "123123",
+    "role": "Сотрудник кредитного отдела",
+    "full_name": "bboo",
+    "email": "qwe@gmail.com",
+    "phone": "123",
+    "department": "JGm",
+    "created_at": "2025-12-13T00:02:55.162885",
+    "is_active": true
+  },
+  {
+    "id": "f7696176-0b55-4174-934f-70774168e454",
+    "username": "123",
+    "password": "123123",
+    "role": "Руководитель подразделения банка",
+    "full_name": "123",
+    "email": "123@gmail.com",
+    "phone": "123",
+    "department": "123",
+    "created_at": "2025-12-13T00:05:50.500767",
+    "is_active": true
+  }
+]
